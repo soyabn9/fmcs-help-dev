@@ -14,7 +14,7 @@ These rules have to be followed by every member. Members have a limit of 3 warni
 
 4. Be respectful to anyone and everyone in the server - 1 Warning + Any Mute or Ban \(depends how disrespectful you are/were\)
 
-5. Respect the channel language. English is the default language. There are different channel languages \(connect your account [here]() to access the other channels\) - 1 Warning
+5. Respect the channel language. English is the default language. There are different channel languages \(connect your account [here](https://freemcserver.net/panel/user/account) to access the other channels\) - 1 Warning
 
 6. Empty names are **NOT** allowed (special characters so your names is invisible) - Banned unless changed when asked
 
@@ -91,13 +91,13 @@ Console Log Link - Use [PasteBin](https://pastebin.com/) or [GitHub Gist](https:
 
 5. You can advertise staff for your server while following the other rules - Message Deleted
 
-6. Connect your account [here]() to get access to post a message
+6. Connect your account [here](https://freemcserver.net/panel/user/account) to get access to post a message
 
 7. Do **NOT** post messages with more than 3-4 emojis - Message Auto-Deleted
 
-8. Do **NOT** post message with duplicated character/words - Message Auto-Deleted
+8. Do **NOT** post messages with duplicated character/words - Message Auto-Deleted
 
-9. Do **NOT** post message with no IP or request users to DM you for it - Message Deleted
+9. Do **NOT** post messages with no IP or request users to DM you for it - Message Deleted
 
 ## Nitro Boosting Info
 
