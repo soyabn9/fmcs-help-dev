@@ -1,10 +1,10 @@
 # Discord Server
 
-Freemcserver.net have an official discord server where you can get help from the community. To join click [here](https://discordapp.com/invite/u99dDtE).
+Freemcserver.net has an official discord server where you can get help from the community. To join click [here](https://discordapp.com/invite/u99dDtE).
 
 ## Discord Rules
 
-These rules have to be followed by every member. Members have a limit of 3 warnings till they get banned.
+These rules have to be followed by every member. Members have a limit of 3 warnings until they get banned.
 
 1. Do **NOT** tag Staff Members either by group or individually \(Exceptions: Donators, Friends and Nitro Boosters \(Nitro Boosters not yet implemented within the bot **#BlameDuarib**\)\) - 1 Warning + Any Mute
 
@@ -18,7 +18,7 @@ These rules have to be followed by every member. Members have a limit of 3 warni
 
 6. Empty names are **NOT** allowed (special characters so your names is invisible) - Banned unless changed when asked
 
-7. No harassing or delibaretly annoying others - 1 Warning
+7. No harassing or deliberately annoying others - 1 Warning
 
 8. Discussion Topics/Shared Media/General Content to be **SFW (Safe For Work) ONLY** - 1 Warning
 
@@ -36,9 +36,9 @@ These rules have to be followed by every member. Members have a limit of 3 warni
 
 15. Do **NOT** ask (or hint, in any way, shape or form) for a ticket to be replied - 1 Warning + Ticket Closed
 
-16. Support is **English Only**. Other language channels wil not be given any official support.
+16. Support is **English Only**. Other language channels will not be given any official support.
 
-17. Anyone setting their "Custom Status" to another Discord/link or name of another host/breaking the other rules - Banned unless changed within 1 hour of last mention requesting it to be changed
+17. Anyone setting their "Custom Status" to another Discord/link or name of another host/breaking the other rules - Banned unless changed within 1 hour of the last mention requesting it to be changed
 
 ## Support Templates
 
@@ -58,7 +58,7 @@ Console Log Link:
 
 
 ```
-Server Jar: MCPE - Nukkit
+Server Jar: MCPE/MCBE - Nukkit
 Server Version: 411
 Minecraft Version: 1.11 (BE)
 Console Log Link: https://gist.github.com/soyabn9/1b3b2f8a91976208061d58a28a8f0566
@@ -70,10 +70,10 @@ Server JAR:
 - Spigot
 - CraftBukkit
 - PaperMC
-- MCPE - Nukkit
+- MCPE/MCBE - Nukkit
 - Vanilla - Snapshot
 - Custom JAR (In brackets, write the JAR used)
-- MCPE - Nukkit (Experimental)
+- MCPE/MCBE - Nukkit (Experimental)
 
 Minecraft Version - In brackets, write either JE (Java Edition) or BE (Bedrock Edition)
 
