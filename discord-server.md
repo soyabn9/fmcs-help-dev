@@ -101,3 +101,11 @@ Console Log Link - Use [PasteBin](https://pastebin.com/) or [GitHub Gist](https:
 
 ## Nitro Boosting Info
 
+Nitro Boosting is a way you can support your favourite server on discord. While Nitro Boosting our (Freemcserver.net) server you will be able to get the following:
+
+- Nitro Booster Role
+- An Extra Server
+- Donator Support
+
+> [!NOTE]
+> When Nitro Boosting is removed, these perks will also be removed.
