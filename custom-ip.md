@@ -85,7 +85,7 @@ For `mc.yourdomain.com`, type `mc` in the **Name** field
 or
 You can type anything in **Name** field for example: If you type `something` you can use `something.yourdomain.com` to connect to your Minecraft server
 
-If you want to use yourdomain.com, play.yourdomain.com as well as / or mc.yourdomain.com, repeat steps [**12)**](dev/custom-ip#step-12) - [**15)**](dev/custom-ip#step-15)
+If you want to use **yourdomain.com**, **play.yourdomain.com** as well as / or **mc.yourdomain.com**, repeat steps [**12)**](dev/custom-ip#step-12) - [**15)**](dev/custom-ip#step-15)
 
 Click the `Save` button to continue.
 
