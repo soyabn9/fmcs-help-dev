@@ -154,7 +154,7 @@ Click the `Re-check now` button and wait at least an hour.
 
 #### Step 23:
 
-Refresh your page and you will see the following. You might be able to now use your IP.
+Refresh your page and you will see the following. You might now be able to use your IP.
 
 ![Cloudflare 17](https://media.discordapp.net/attachments/658324214910287883/658341618960826379/unknown.png)
 
