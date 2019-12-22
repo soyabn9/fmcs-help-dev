@@ -5,3 +5,4 @@ This is to see the outcome of the dev pages below.
 ## Dev Pages
 
 - [Discord Server](dev/discord-server.md)
+- [Java FAQ/Custom IP](dev/custom-ip.md)
