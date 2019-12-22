@@ -5,3 +5,4 @@
 - Dev Pages
 
   - [Discord Server](dev/discord-server.md)
+  - [Java FAQ/Custom IP](dev/custom-ip.md)
