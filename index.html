@@ -29,24 +29,6 @@
       href="//unpkg.com/docsify/lib/themes/vue.css"
       title="vue"
     />
-    <link
-      rel="stylesheet"
-      href="//unpkg.com/docsify/lib/themes/dark.css"
-      title="dark"
-      disabled
-    />
-    <link
-      rel="stylesheet"
-      href="//unpkg.com/docsify/lib/themes/buble.css"
-      title="buble"
-      disabled
-    />
-    <link
-      rel="stylesheet"
-      href="//unpkg.com/docsify/lib/themes/pure.css"
-      title="pure"
-      disabled
-    />
     <style>
       nav.app-nav li ul {
         min-width: 100px;
@@ -59,7 +41,13 @@
     <script>
       window.$docsify = {
         alias: {
+          '.*?/README': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/README.md',
+          '.*?/_coverpage.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/_coverpage.md',
+          '.*?/discord-server.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/discord-server.md',
+          '.*?/custom-ip.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/custom-ip.md',
+          //'.*?/_sidebar.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help/master/_sidebar.md',
           "/.*/_navbar.md": "/_navbar.md"
+        },
         auto2top: true,
         coverpage: true,
         onlyCover: true,
