@@ -1,8 +1,8 @@
 - Home Page
 
-  - [Home](dev/README.md)
+  - [Home](README.md)
   
 - Dev Pages
 
-  - [Discord Server](dev/discord-server.md)
-  - [Java FAQ/Custom IP](dev/custom-ip.md)
+  - [Discord Server](discord-server.md)
+  - [Java FAQ/Custom IP](custom-ip.md)
