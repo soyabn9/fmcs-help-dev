@@ -3,7 +3,7 @@
 > [!WARNING]
 > This tutorial doesn't work on Bedrock/Windows 10/Pocket Edition servers! They don't support SRV records. 
 >
-> If you already own domain on Freenom or any other domain registrar, you can skip some of the domain registration steps and when you get to changing Nameservers of the domain, if you are unsure how you do it on your domain registrar, Google can help you!
+> If you already own a domain on Freenom or any other domain registrar, you can skip some of the domain registration steps and when you get to changing Nameservers of the domain, if you are unsure how you do it on your domain registrar, Google can help you!
 >
 > IP won't change on the panel! You can use both old and the new IP you created with help of this tutorial to connect to your server.
 >
