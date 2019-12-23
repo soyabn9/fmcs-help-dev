@@ -11,7 +11,7 @@
 
 #### Step 1:
 
-Get yourself a free domain from [https://freenom.com/](https://freenom.com/). *"fmcshelptutorial.tk" is just an example. Instead of it type in whatever you want your IP to be*.
+Get yourself a free domain from [https://freenom.com/](https://freenom.com/). *\"fmcshelptutorial.tk\" is just an example. Instead of it type in whatever you want your IP to be.*
 
 ![Freenom 1](https://media.discordapp.net/attachments/658324214910287883/658325182204739603/unknown.png)
 
