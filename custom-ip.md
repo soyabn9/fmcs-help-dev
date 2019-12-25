@@ -123,7 +123,7 @@ Click the `Add Record` button and you will see it appear in the list below.
 
 After adding the SRV record and checking if everything is correct, click the `Continue` button.
 
-![Cloudflare 13](https://media.discordapp.net/attachments/658324214910287883/659395469205700608/unknown.png?width=400&height=94)
+![Cloudflare 13](https://media.discordapp.net/attachments/658324214910287883/659395469205700608/unknown.png)
 
 ### Step 17:
 
@@ -137,19 +137,19 @@ Click on `Management Tools` and then `Nameservers`.
 
 ![Cloudflare 15](https://media.discordapp.net/attachments/658324214910287883/658340077490929674/unknown.png)
 
-### Step 21:
+### Step 19:
 
 Choose `use custom nameservers` on the Freenom site, copy over Nameserver 1 from Cloudflare to Freenom and do the same for Nameserver 2. Leave the other Nameservers blank, click the `Change Nameservers` button on the Freenom site, then click the `Done, check nameservers` button on the Cloudflare site.
 
 ![Cloudflare & Freenom 1](https://media.discordapp.net/attachments/658324214910287883/658340870617301010/unknown.png)
 
-### Step 19:
+### Step 20:
 
 Click the `Re-check now` button and wait at least an hour.
 
 ![Cloudflare 16](https://media.discordapp.net/attachments/658324214910287883/658341003329273887/unknown.png)
 
-### Step 20:
+### Step 21:
 
 Refresh your page and you will see the following. You might now be able to use your new IP.
 
