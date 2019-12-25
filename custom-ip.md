@@ -10,7 +10,7 @@
 > If you are doing this tutorial from a mobile phone or tablet, on the Cloudflare page after step number [**11)**](en/java-faq#step-11), make sure to click on the context menu of your browser (usually `...` three vertical dots) and check the `Request Desktop Site` option. If by any chance you don't have such option, use a computer or you can't complete all the steps successfully.
 
 > [!DANGER]
-> Beware, the server IP can change without warning. You will have to change the IP on both records, if the server IP has changed.
+> Beware, the server IP can change without warning. You will have to change the IP on the SRV record, if the server IP has changed.
 
 ### Step 1:
 
