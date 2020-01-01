@@ -48,12 +48,12 @@
     <script>
       window.$docsify = {
         alias: {
-          '.*?/README': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/README.md',
+          //'.*?/README': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/README.md',
           '.*?/_coverpage.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/_coverpage.md',
-          '.*?/discord-server.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/discord-server.md',
-          '.*?/custom-ip.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/custom-ip.md',
-          '.*?/fmcs-help-faq.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/fmcs-help-faq.md',
-          '.*?/_sidebar.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/_sidebar.md',
+          //'.*?/discord-server.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/discord-server.md',
+          //'.*?/custom-ip.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/custom-ip.md',
+          //'.*?/fmcs-help-faq.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/fmcs-help-faq.md',
+          //'.*?/_sidebar.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/_sidebar.md',
           "/.*/_navbar.md": "/_navbar.md"
         },
         auto2top: true,
@@ -113,7 +113,7 @@
         plugins: [
           function(hook, vm) {
             hook.beforeEach(function(html) {
-              var url = 'https://github.com/soyabn9/fmcs-help/edit/master/' + vm.route.file;
+              var url = 'https://github.com/soyabn9/fmcs-help-dev/edit/master/' + vm.route.file;
               var editHtml = "[:memo: Edit Document](" + url + ")\n";
               return (
                 editHtml + html + "\n----\n" + "Last Modified: {docsify-updated} "
