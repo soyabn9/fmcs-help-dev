@@ -24,19 +24,19 @@
     ></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    <!---- <link
+    <link
       rel="stylesheet"
       href="//unpkg.com/docsify/lib/themes/vue.css"
       title="vue"
-    /> ---->
-    <link
+    />
+    <!--- <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
     />
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/prismjs@1.17.1/themes/prism-dark.css"
-    />
+    /> --->
     <style>
       nav.app-nav li ul {
         min-width: 100px;
@@ -52,6 +52,7 @@
           '.*?/_coverpage.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/_coverpage.md',
           '.*?/discord-server.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/discord-server.md',
           '.*?/custom-ip.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/custom-ip.md',
+          '.*?/fmcs-help-faq.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/fmcs-help-faq.md',
           '.*?/_sidebar.md': 'https://raw.githubusercontent.com/soyabn9/fmcs-help-dev/master/_sidebar.md',
           "/.*/_navbar.md": "/_navbar.md"
         },
@@ -113,15 +114,11 @@
         plugins: [
           function(hook, vm) {
             hook.beforeEach(function(html) {
-              if (/githubusercontent\.com/.test(vm.route.file)) {
-                url = vm.route.file
-                  .replace("raw.githubusercontent.com", "github.com")
-                  .replace(/\/master/, "/edit/master");
-              } else {
-                return;
-              }
+              var url = 'https://github.com/soyabn9/fmcs-help/edit/master/' + vm.route.file;
               var editHtml = "[:memo: Edit Document](" + url + ")\n";
-              return editHtml + html + "\n\n----\n\n";
+              return (
+                editHtml + html + "\n----\n" + "Last Modified: {docsify-updated} "
+              );
             });
           }
         ]
