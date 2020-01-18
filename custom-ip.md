@@ -16,13 +16,13 @@
 
 Get yourself a free domain from [https://freenom.com/](https://freenom.com/). *\"fmcshelptutorial.tk\" is just an example. Instead of it type in whatever you want your IP to be.*
 
-![Freenom 1](https://media.discordapp.net/attachments/658324214910287883/658325182204739603/unknown.png)
+![Freenom 1](images/Freenom%201.png)
 
 ### Step 2:
 
 Change the duration of the domain from `3 Months` to `12 Months`.
 
-![Freenom 2](https://media.discordapp.net/attachments/658324214910287883/658326425178472458/unknown.png)
+![Freenom 2](images/Freenom%202.png)
 
 ### Step 3:
 
